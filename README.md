@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @paulcourt
 - 👀 I’m interested in data mining, data analytics, and software engineering.
 - 🌱 I’m currently learning data base design and data mining techniques.
-
+- I interned as a software developer at Blattner Company from 9-2021 to 5-2022 and was able to use my skills as a developer, analyst, and automated test designer.
+- Graduated Magna Cum Laude at St. Cloud State University with a Professional Science Masters in Software Engineering with emphases in Data Analytics and Cyber Security.
